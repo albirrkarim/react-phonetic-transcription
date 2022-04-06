@@ -16,15 +16,8 @@ module.exports = {
         use: ["style-loader", "css-loader"],
       },
       {
-        test: /\.ttf$/,
-        use: [
-          {
-            loader: "ttf-loader",
-            options: {
-              name: "./font/[hash].[ext]",
-            },
-          },
-        ],
+        test: /\.(woff|woff2|eot|ttf|otf)$/i,
+        type: 'asset/inline',
       },
     ],
   },

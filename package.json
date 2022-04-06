@@ -1,6 +1,6 @@
 {
   "name": "react-phonetic-transcription",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Phonetic transcription tools with react js for input, outputing, etc",
   "main": "./build/index.js",
   "scripts": {

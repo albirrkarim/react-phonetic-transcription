@@ -1,6 +1,6 @@
 {
   "name": "react-phonetic-transcription",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Phonetic transcription tools with react js for input, outputing, etc",
   "main": "./build/index.js",
   "scripts": {
@@ -32,5 +32,8 @@
     "style-loader": "^3.3.1",
     "webpack": "^5.71.0",
     "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.6.0"
   }
 }

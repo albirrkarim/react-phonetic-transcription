@@ -167,7 +167,7 @@ const full_data = [
 
     {
         label: "",
-        data: "ꜜꜛ↘︎↗︎·",
+        data: "ꜜꜛ↘↗·",
     },
 
     {

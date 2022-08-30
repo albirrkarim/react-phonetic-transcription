@@ -1,6 +1,6 @@
 {
   "name": "react-phonetic-transcription",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "description": "Phonetic transcription tools with react js for input, outputing, etc",
   "main": "./build/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "transcription"
   ],
   "author": "albirrkarim",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/albirrkarim/react-phonetic-transcription"
@@ -21,6 +21,7 @@
     "@emotion/styled": "^11.1.5",
     "@mui/material": "^5.5.3",
     "@mui/styled-engine": "^5.5.2",
+    "@mui/icons-material": "^5.6.0",
     "react": ">=17.0.0"
   },
   "devDependencies": {
@@ -32,8 +33,5 @@
     "style-loader": "^3.3.1",
     "webpack": "^5.71.0",
     "webpack-cli": "^4.9.2"
-  },
-  "dependencies": {
-    "@mui/icons-material": "^5.6.0"
   }
 }
